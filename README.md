@@ -9,6 +9,6 @@ p.s. text editors load .nb files in a very unpleasent way (as you can see if you
 The Gödel metric is an exact solution to Einstein's field equations in general relativity. Please visit this link for more information on this metric: [https://en.wikipedia.org/wiki/G%C3%B6del_metric](https://en.wikipedia.org/wiki/G%C3%B6del_metric)
 
 ## Required packages
-This code uses the library xAct and associated packages (i.e. xCoba, xPert, etc.) to handle very involved calculations with tensors.
+This code uses the xAct library and its associated packages (i.e. xCoba, xPert, etc.) to handle very involved calculations with tensors.
 
 Please visit this link to find the download files and instructions for this very helpful family of packages: [http://www.xact.es/index.html](http://www.xact.es/index.html)
