@@ -3,6 +3,8 @@ This is a repository for hosting public access to Mathematica notebooks related 
 
 This is still very much a work in progress, so expect updates as they become relevant!
 
+(update 4/19/24 please visit godel.nb for my general work in defining the Gödel metric using xAct, or visit perturbationex.nb to see my work with general perturbations and related calculations)
+
 p.s. text editors load .nb files in a very unpleasent way (as you can see if you click into any of the files here), so if you want to play around with this code, please download it and open it directly through the Mathematica client ;)
 
 ## The Gödel metric
