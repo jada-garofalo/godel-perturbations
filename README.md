@@ -1,7 +1,7 @@
 # Perturbations in the Gödel metric
 This is a repository for hosting public access to Mathematica notebooks related to my work with perturbations in the Gödel metric.
 
-This is still very much a work in progress, so expect updates as they become relevant!
+This is project has since been closed.
 
 (update 4/19/24 please visit godel.nb for my general work in defining the Gödel metric using xAct, or visit perturbationex.nb to see my work with general perturbations and related calculations)
 
