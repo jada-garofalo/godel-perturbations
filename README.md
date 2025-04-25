@@ -1,5 +1,5 @@
 # Perturbations in the Gödel metric
-This is a repository for hosting public access to Mathematica notebooks related to my work with perturbations in the Gödel metric.
+Some Mathematica notebooks where I began to play with perturbations in the Gödel metric.
 
 This is project has since been closed.
 
